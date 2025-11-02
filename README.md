@@ -52,5 +52,5 @@ Through this project, the following skills and techniques were applied:
 ## 👤 Author
 **Pranjal Das**
 Aspiring Data Analyst | Dashboard Developer | Problem Solver
-📧 [daspranjal.official.id@gmail.com](mailto:daspranjal.official.id@gmail.com)
-📞 8135879121  
+[daspranjal.official.id@gmail.com](mailto:daspranjal.official.id@gmail.com)
+8135879121  
